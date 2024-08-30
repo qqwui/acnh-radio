@@ -9,5 +9,5 @@ This is the old python script used to queue songs. It requires some textfiles co
 ## radio_new
 The same as radio_old but uses a new system that prevents songs potentially repeating .
 
-# radio_hifi
+## radio_hifi
 I just used `ices` for this. Its mainly for archival purposes.
