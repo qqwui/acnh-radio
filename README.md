@@ -1,5 +1,5 @@
 # Animal Crossing New Horizons Radio
-These are the scripts I used to make the ACNH internet radio. This is an archive, I'm not developing these further in favour of a setup using liquidsoap.
+These are the scripts I used to make the ACNH internet radio. This is an archive, I'm not developing these further in favour of a setup using liquidsoap ([acnh-radio-liquidsoap](https://github.com/qqwui/acnh-radio-liquidsoap)).
 
 *Songs must be added yourself. I am not responsible for Nintendo nuking your home*
 
